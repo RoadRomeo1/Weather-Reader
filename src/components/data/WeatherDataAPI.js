@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const key = 'c28977301c0af595ab3de1afd0ccdf7c';
+const key = '---api key goes here----';
 
 function getWeatherData(city) {
   return axios
