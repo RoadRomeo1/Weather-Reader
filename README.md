@@ -1,4 +1,4 @@
 # Weather Reader
 
-Weather reader application bulid with react.js, can be used know the current weather of any location worldwide. 
+Weather reader application bulid with react, used for getting weather updated across the globe. 
 
